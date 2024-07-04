@@ -1,4 +1,4 @@
-# Down-GRAM
+# Down-GRAM V1
 This Python script fetches basic profile information from Instagram using the Instaloader library and saves the profile picture. It also prints out the username, post count, follower count, following count, and bio of the Instagram account.
 
 ## Features
@@ -16,4 +16,3 @@ This Python script fetches basic profile information from Instagram using the In
    pip install instaloader
   
 ![image](https://github.com/14627s/Down-GRAM/assets/173080010/4f9aaef7-5299-4b08-9018-1e82ee764ee5)
-
